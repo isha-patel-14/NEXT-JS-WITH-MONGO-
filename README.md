@@ -15,7 +15,7 @@ It includes everything from **basic CRUD** to **search, filtering, and bulk inse
 ## 🔗 Resources  
 
 - 📑 **API Docs (Postman Collection):** [Explore Here](https://documenter.getpostman.com/view/39190597/2sB3HopzoA)  
-- 🌍 **Live Demo:** [Launch App]()  
+- 🌍 **Live Demo:** [Launch App](https://next-js-with-mongo-jet.vercel.app/)  
 
 ---
 
